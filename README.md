@@ -1,4 +1,4 @@
-# Olá, sou o Kauã Henrique 👋
+# Olá, sou o Kauã Mazzeu 👋
 
 Estudante focado em **Segurança da Informação**, com ênfase prática na interseção entre **segurança ofensiva (Red Team)**, **defesa cibernética (Blue Team)** e **investigação/perícia digital (Forense)**. 
 
