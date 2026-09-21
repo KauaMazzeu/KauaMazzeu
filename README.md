@@ -45,5 +45,5 @@ Acredito que compreender a fundo como um ataque funciona na prática é o caminh
 ---
 
 ### 🌐 Contato & Redes
-- **LinkedIn:**(https://www.linkedin.com/in/kauamazzeu/)
-- **E-mail:**(mailto:kauamazzeu1221@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/kauamazzeu/)
+- **E-mail:**(kauamazzeu1221@gmail.com)
